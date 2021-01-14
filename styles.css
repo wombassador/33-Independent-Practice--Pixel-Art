@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+div {
+    width: 80px;
+    height: 80px;
+    border: 1px solid black;
+    float: left;
+    padding: 1px;
+    text-align: center;
+}
