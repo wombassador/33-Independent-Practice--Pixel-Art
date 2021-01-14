@@ -1,1 +1,0 @@
-# 33-Independent-Practice--Pixel-Art
